@@ -1,2 +1,2 @@
 # beHack_baby_sharks
-Android studio application, QueenB hackathon
+Android Studio application, QueenB hackathon
